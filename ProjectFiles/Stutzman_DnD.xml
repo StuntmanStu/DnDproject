@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<characters>
+		<char tag="pewpew">
+      <index>0</index>
+			<name>Magic Man</name>
+			<role>Wizard</role>
+			<armor>12</armor>
+			<health>8</health>
+			<conMod>-1</conMod>
+      <damMod>3</damMod>
+      <treasure>0</treasure>
+		</char>
+		<char tag="barbra">
+      <index>1</index>
+			<name>Cleavland</name>
+			<role>Barbarian</role>
+			<armor>14</armor>
+			<health>14</health>
+      <conMod>3</conMod>
+      <damMod>4</damMod>
+      <treasure>1</treasure>
+		</char>
+		<char tag="bard">
+      <index>2</index>
+			<name>Axel</name>
+			<role>Bard</role>
+			<armor>14</armor>
+			<health>11</health>
+      <conMod>1</conMod>
+      <damMod>2</damMod>
+      <treasure>2</treasure>
+		</char>
+		<char tag="cleric">
+      <index>3</index>
+			<name>Eric</name>
+			<role>Cleric</role>
+			<armor>18</armor>
+			<health>11</health>
+      <conMod>3</conMod>
+      <damMod>2</damMod>
+      <treasure>3</treasure>
+		</char>
+		<char tag="stabba">
+      <index>4</index>
+			<name>SI:7</name>
+			<role>Rogue</role>
+			<armor>14</armor>
+			<health>9</health>
+      <conMod>0</conMod>
+      <damMod>3</damMod>
+      <treasue>4</treasue>
+		</char>
+		<char tag="figher">
+      <index>5</index>
+			<name>King Arthur</name>
+			<role>Fighter</role>
+			<armor>14</armor>
+			<health>12</health>
+      <conMod>3</conMod>
+      <damMod>2</damMod>
+      <treasre>5</treasre>
+		</char>
+		<char tag="Drood">
+      <index>6</index>
+			<name>Lifeblooom Moar</name>
+			<role>Druid</role>
+			<armor>15</armor>
+			<health>13</health>
+      <conMod>1</conMod>
+      <damMod>3</damMod>
+      <treasure>6</treasure>
+		</char>
+		<char tag="Monk">
+      <index>7</index>
+			<name>ohm</name>
+			<role>Monk</role>
+			<armor>13</armor>
+			<health>11</health>
+      <conMod>2</conMod>
+      <damMod>3</damMod>
+      <treasure>7</treasure>
+		</char>
+		<char tag="Pally">
+      <index>8</index>
+			<name>Shockurdin</name>
+			<role>Paladin</role>
+			<armor>18</armor>
+			<health>15</health>
+      <conMod>4</conMod>
+      <damMod>2</damMod>
+      <treasure>8</treasure>
+		</char>
+		<char tag="Ranger">
+      <index>9</index>
+			<name>Pete</name>
+			<role>Ranger</role>
+			<armor>12</armor>
+			<health>10</health>
+      <conMod>1</conMod>
+      <damMod>3</damMod>
+      <treasure>9</treasure>
+		</char>
+		<char tag="caster">
+      <index>10</index>
+			<name>Flame On</name>
+			<role>Sorcerer</role>
+			<armor>11</armor>
+			<health>8</health>
+      <conMod>-1</conMod>
+      <damMod>3</damMod>
+      <treasure>>10</treasure>
+		</char>
+		<char tag="Locks">
+      <index>11</index>
+			<name>Lockie</name>
+			<role>Warlock</role>
+			<armor>12</armor>
+			<health>8</health>
+      <conMod>2</conMod>
+      <damMod>4</damMod>
+      <treasure>11</treasure>
+		</char>
+	</characters>
+	<weapons>
+		<weapon style="GreatSword">
+      <index>0</index>
+			<name>Greatsword</name>
+			<dice>2</dice>
+			<damage>6</damage>
+		</weapon>
+		<weapon style="Sword">
+      <index>1</index>
+			<name>sword</name>
+			<dice>1</dice>
+			<damage>6</damage>
+		</weapon>
+		<weapon style="Burning hands">
+      <index>2</index>
+			<name>Burning Hands</name>
+			<dice>3</dice>
+			<damage>6</damage>
+		</weapon>
+		<weapon syle="witchbolt">
+      <index>3</index>
+			<name>Witchbolt</name>
+			<dice>1</dice>
+			<damage>12</damage>
+		</weapon>
+		<weapon syle="greataxe">
+      <index>4</index>
+			<name>GreatAxe</name>
+			<dice>1</dice>
+			<damage>12</damage>
+		</weapon>
+		<weapon style="flail">
+      <index>5</index>
+			<name>Flail</name>
+			<dice>1</dice>
+			<damage>8</damage>
+		</weapon>
+		<weapon style ="warhammer">
+      <index>6</index>
+			<name>Warhammer</name>
+			<dice>1</dice>
+			<damage>8</damage>
+		</weapon>
+	</weapons>
+  <treasure>
+    <treasure>
+      <index>0</index>
+      <name>Philosiphers stone</name>
+      <pic></pic>
+    </treasure>
+    <treasure>
+      <index></index>
+    </treasure>
+  </treasure>
+</root>
